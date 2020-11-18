@@ -46,6 +46,7 @@ body {
     max-height: 400px;
     overflow: auto;
     color: white;
+    color: black;
   }
   
   li {
