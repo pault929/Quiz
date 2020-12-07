@@ -1,3 +1,30 @@
+# Title:
+# Link to site:
+# List of Technologies
+# What does APP/Program do
+# Screen Shoots 
+# License
+# Collaborators
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# The following info provides instructions to the assignment:
 # 04 Web APIs: Code Quiz
 
 As you proceed in your career as a web developer, you will probably be asked to complete a coding assessment, which is typically a combination of multiple-choice questions and interactive challenges. Build a timed code quiz with multiple-choice questions. This app will run in the browser and feature dynamically updated HTML and CSS powered by your JavaScript code. It will also feature a clean and polished user interface and be responsive, ensuring that it adapts to multiple screen sizes.
