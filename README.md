@@ -1,8 +1,16 @@
 # Title:
+  Quiz Generator
 # Link to site:
+   https://pault929.github.io/Quiz/ 
 # List of Technologies
-# What does APP/Program do
+   HTML, CSS, JAVASCRIPT 
+# What does APP/Program do:
+   This APP asks the user to answer a few questions while in the background saving the info and using a count down timer.
 # Screen Shoots 
+![Screenshots](./images/quiz1.JPG)
+![Screenshots](./images/quiz2.JPG)
+![Screenshots](./images/quiz3.JPG)
+
 # License
 # Collaborators
 
